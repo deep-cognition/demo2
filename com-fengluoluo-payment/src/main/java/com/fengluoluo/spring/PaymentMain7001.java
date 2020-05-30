@@ -7,5 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PaymentMain7001 {
     public static void main(String[] args) {
         SpringApplication.run(PaymentMain7001.class,args);
+        String name = "fengluoluo";
     }
 }
